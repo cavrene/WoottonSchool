@@ -8,6 +8,7 @@
 
 package helloworld;
 
+
 public class CarolynFuExhaustedKnight {
 	
 	public static final int[] HORZDISP = {1, 2, 2, 1, -1, -2, -2, -1};
