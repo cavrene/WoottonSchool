@@ -1,1 +1,2 @@
-# WoottonCode
+# School Code
+
